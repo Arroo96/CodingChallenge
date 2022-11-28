@@ -1,0 +1,93 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover ;
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+}
+
+.container {
+  width:1000px;
+  margin:auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  height: 700px;
+  padding-top:20px;
+  margin-top:20px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  display: block;
+  margin-left: 0 auto;
+  width:250px;
+  padding-left: 350px;
+  padding-top:20px;
+}
+
+.main-title {
+  display:block;
+  font-size: 40px;
+  text-align: center;
+  color:#37eb34;
+}
+
+.nav-buttons {
+  margin:auto;
+  width:850px;
+  height: 50px;
+  background-color: #37eb34;
+}
+
+.nav-buttons button {
+  position: relative;
+  left:280px;
+  top:13px;
+}
+
+.availability {
+  color:white;
+}
+
+.availability p {
+  font-size: 13px;
+}
+
+.availability {
+  position: relative;
+  left:73px;
+  top:30px;
+  padding:10px;
+}
+
+#box {
+  position: relative;
+  width:300px;
+  height: 25px;
+  background-color: #ebba34;
+  top:10px;
+  left:82px;
+  border-radius: 5px;
+}
+
+#box2 {
+  position: relative;
+  width:500px;
+  height: 25px;
+  background-color: #15bd09;
+  top:10px;
+  left:82px;
+  border-radius: 5px;
+}
+
+#box3 {
+  position: relative;
+  width:100px;
+  height: 25px;
+  background-color: #ff0000;
+  top:10px;
+  left:82px;
+  border-radius: 5px;
+}
